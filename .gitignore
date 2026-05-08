@@ -1,0 +1,13 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.DS_Store
+.vscode/
+.idea/
+*.log
+metastore_db/
+warehouse/
+spark-warehouse/
+*.parquet
+*.csv~
